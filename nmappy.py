@@ -1,5 +1,6 @@
 #!/usr/bin/env python
-import nmap 
+import nmap
+import os
 
 # take the range of ports to 
 # be scanned 
