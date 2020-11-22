@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import nmap 
 
 # take the range of ports to 
